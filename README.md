@@ -10,10 +10,6 @@ npm install
 npm run serve
 ```
 
-### Compiles and minifies for production
-```
-npm run build
-```
+### About
 
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+O projeto foi feito com Vue.js utilizando 'ferramentas' como Bootstrap, Bootstrap.vue, Axios, Sass e BreakingBadApi.
